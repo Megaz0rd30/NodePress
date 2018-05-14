@@ -1,0 +1,3 @@
+C:\Users\gcastro\source\repos\NodePress\NodePress\obj\Debug\NodePress.njsprojAssemblyReference.cache
+C:\Users\gcastro\source\repos\NodePress\NodePress\obj\Debug\NodePress.njsproj.CoreCompileInputs.cache
+C:\Users\gcastro\source\repos\NodePress\NodePress\bin\Microsoft.NodejsTools.WebRole.dll
