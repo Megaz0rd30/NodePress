@@ -34,6 +34,12 @@
     <Compile Include="core\post_type.js">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="np-content\themes\default\index.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="np-includes\np-load.js">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="routes\index.js" />
     <Compile Include="routes\users.js" />
     <Content Include="package.json" />
@@ -45,6 +51,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="core\" />
+    <Folder Include="np-content\" />
+    <Folder Include="np-content\themes\" />
+    <Folder Include="np-content\themes\default\" />
+    <Folder Include="np-includes\" />
     <Folder Include="public\" />
     <Folder Include="public\images\" />
     <Folder Include="public\javascripts\" />
